@@ -3,7 +3,7 @@
 ## Amaçlar
 
 - JavasScipt'te öğrendiklerimizi kullanmak
-
+ 
 ## Giriş
 
 Artık çalıştığınız iş yerinde tecrübeli bir çalışan oldunuz. Sizden yeni gelen stajyerlere destek olmanız isteniyor.
